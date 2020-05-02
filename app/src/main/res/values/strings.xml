@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TD2_Exo3</string>
+    <string-array name="plombierList">
+        <item>Mohamed</item>
+        <item>Imad</item>
+        <item>Aymen</item>
+        <item>Ahmed</item>
+        <item>Oussama</item>
+    </string-array>
+
+    <string-array name="typesList">
+        <item>Dépannage</item>
+        <item>Installation</item>
+        <item>Rénovation</item>
+        <item>Entretien</item>
+    </string-array>
+</resources>
